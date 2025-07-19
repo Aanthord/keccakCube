@@ -1,6 +1,6 @@
 # 🔥 KeccakCube: The Recursive Entropy Engine
 
-Welcome to the blacksite.
+This is where entropy gets baptized.
 
 ### 📄 **Dual License Strategy**
 ```
